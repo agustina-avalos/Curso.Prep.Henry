@@ -233,5 +233,5 @@ module.exports = {
   esVerdadero,
   tablaDelSeis,
   tieneTresDigitos,
-  doWhile,
+  doWhile
 };
